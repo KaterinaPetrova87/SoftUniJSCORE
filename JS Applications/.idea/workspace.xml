@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff0d60a6-df7b-4636-8336-fb9b61dba804" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise05. JS Patterns/TeamManager/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phonebook.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture01. AJAX and jQuery AJAX/04.Phonebook/phonebook.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="55" column="3" lean-forward="false" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="busSchedule.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise01. REST and HTTP Requests/02.BusSchedule/busSchedule.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="5" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forecaster.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise02. Asynchronous Programming/01.Forecaster/forecaster.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crudOperations.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture03. Single Page Applications/BookLibrary/scripts/crudOperations.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="displayElements.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture03. Single Page Applications/BookLibrary/scripts/displayElements.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="attachEvents.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture03. Single Page Applications/BookLibrary/scripts/attachEvents.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="71" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="tsconfig.json" />
+        <option value="HTML File" />
+        <option value="package_json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lecture04. Templating/Contact Book/style/contact.css" />
+        <option value="$PROJECT_DIR$/Lecture04. Templating/Contact Book/style/site.css" />
+        <option value="$PROJECT_DIR$/Lecture04. Templating/Contact Book/templates/contact.html" />
+        <option value="$PROJECT_DIR$/Lecture04. Templating/Contact Book/templates/contactsList.html" />
+        <option value="$PROJECT_DIR$/Lecture04. Templating/Contact Book/templates/details.html" />
+        <option value="$PROJECT_DIR$/Lecture04. Templating/Contact Book/app.js" />
+        <option value="$PROJECT_DIR$/Lecture04. Templating/Contact Book/package.json" />
+        <option value="$PROJECT_DIR$/Lecture04. Templating/ContactBook/templates/contactsList.html" />
+        <option value="$PROJECT_DIR$/Lecture04. Templating/ContactBook/templates/contact.html" />
+        <option value="$PROJECT_DIR$/Lecture04. Templating/ContactBook/index.html" />
+        <option value="$PROJECT_DIR$/Lecture04. Templating/ContactBook/style/contact.css" />
+        <option value="$PROJECT_DIR$/Lecture04. Templating/ContactBook/templates/details.html" />
+        <option value="$PROJECT_DIR$/Lecture04. Templating/ContactBook/templates/contacts.html" />
+        <option value="$PROJECT_DIR$/Lecture04. Templating/ContactBook/app.js" />
+        <option value="$PROJECT_DIR$/Exercise04. Templating/01.ListTowns/jquery-3.1.1.min.js" />
+        <option value="$PROJECT_DIR$/Exercise04. Templating/01.ListTowns/listTowns.html" />
+        <option value="$PROJECT_DIR$/Exercise04. Templating/01.ListTowns/template.html" />
+        <option value="$USER_HOME$/Desktop/10. Problem Handlebars-Exercises-Skeleton/cats.html" />
+        <option value="$PROJECT_DIR$/Exercise04. Templating/02.HTTPStatusCats/catSeeder.js" />
+        <option value="$PROJECT_DIR$/Exercise04. Templating/02.HTTPStatusCats/template.html" />
+        <option value="$PROJECT_DIR$/Exercise04. Templating/02.HTTPStatusCats/cats.html" />
+        <option value="$PROJECT_DIR$/Exercise04. Templating/02.HTTPStatusCats/templates/cats.html" />
+        <option value="$PROJECT_DIR$/Exercise04. Templating/02.HTTPStatusCats/templates/detailsTemplate.html" />
+        <option value="$PROJECT_DIR$/Exercise04. Templating/02.HTTPStatusCats/template.hbs" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/Templates/common/header.hbs" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/Templates/common/footer.hbs" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/Templates/greeting.hbs" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/Demo/index.html" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/Demo/app.js" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/app.js" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/index.html" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/scripts/remote.js" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/package.json" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/common/header.hbs" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/common/footer.hbs" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/contacts.hbs" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/welcome.hbs" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/forms/registerForm.hbs" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/forms/loginForm.hbs" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/scripts/authService.js" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/common/navigation.hbs" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/app.js" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/contacts/contactsPage.hbs" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/contacts/contactsList.hbs" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/contacts/contact.hbs" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/scripts/handlers/homeHandler.js" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/contacts/contactDetails.hbs" />
+        <option value="$PROJECT_DIR$/Exercise04. Templating/01.ListTowns/listTowns.js" />
+        <option value="$PROJECT_DIR$/Exercise04. Templating/02.HTTPStatusCats/cats.js" />
+        <option value="$PROJECT_DIR$/Exercise05. JS Patterns/Team-Manager/index.html" />
+        <option value="$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JS Applications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Applications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture05. JS Patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Applications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture05. JS Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="ContactBook" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SoftUni\JS CORE\JS Applications\JS Applications\Lecture05. JS Patterns\ContactBook" />
+      <recent name="E:\SoftUni\JS CORE\JS Applications\JS Applications\Lecture05. JS Patterns\ContactBook\style" />
+      <recent name="E:\SoftUni\JS CORE\JS Applications\JS Applications\Lecture05. JS Patterns" />
+      <recent name="E:\SoftUni\JS CORE\JS Applications\JS Applications\Lecture05. JS Patterns\Demo" />
+      <recent name="E:\SoftUni\JS CORE\JS Applications\JS Applications\Exercise04. Templating\02.HTTPStatusCats" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.listTowns.js">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Applications/Lecture04. Templating/Demo/index.html" />
+    <configuration name="listTowns.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="listTowns.js" working-dir="$PROJECT_DIR$/Exercise04. Templating/01.ListTowns" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.listTowns.js" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.listTowns.js" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff0d60a6-df7b-4636-8336-fb9b61dba804" name="Default" comment="" />
+      <created>1521474176402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521474176402</updated>
+      <workItem from="1521474179247" duration="64000" />
+      <workItem from="1521474332564" duration="601000" />
+      <workItem from="1521545504111" duration="4686000" />
+      <workItem from="1521637891946" duration="25051000" />
+      <workItem from="1521717617864" duration="11351000" />
+      <workItem from="1521738051565" duration="247000" />
+      <workItem from="1521809401848" duration="2859000" />
+      <workItem from="1521823642718" duration="1894000" />
+      <workItem from="1521825923448" duration="9772000" />
+      <workItem from="1522067958384" duration="19908000" />
+      <workItem from="1522151894058" duration="2071000" />
+      <workItem from="1522234672065" duration="14672000" />
+      <workItem from="1522259693845" duration="61000" />
+      <workItem from="1522259977048" duration="70000" />
+      <workItem from="1522261418249" duration="473000" />
+      <workItem from="1522262026178" duration="720000" />
+      <workItem from="1522264614882" duration="718000" />
+      <workItem from="1522266352599" duration="1218000" />
+      <workItem from="1522269847433" duration="222000" />
+      <workItem from="1522270352882" duration="587000" />
+      <workItem from="1522271624757" duration="2066000" />
+      <workItem from="1522406570958" duration="5289000" />
+      <workItem from="1522430356909" duration="10039000" />
+      <workItem from="1522681549434" duration="11632000" />
+      <workItem from="1522765637985" duration="18103000" />
+      <workItem from="1522838829998" duration="2953000" />
+      <workItem from="1522845025147" duration="3348000" />
+      <workItem from="1522850411718" duration="11617000" />
+      <workItem from="1522939192274" duration="161000" />
+      <workItem from="1522940532494" duration="818000" />
+      <workItem from="1522946221149" duration="15751000" />
+      <workItem from="1523008015955" duration="22684000" />
+      <workItem from="1523042763052" duration="37000" />
+      <workItem from="1523178440579" duration="25000" />
+      <workItem from="1523178835586" duration="352000" />
+      <workItem from="1523179408455" duration="597000" />
+      <workItem from="1523181339793" duration="201000" />
+      <workItem from="1523191968408" duration="435000" />
+      <workItem from="1523275964856" duration="75000" />
+      <workItem from="1523276182132" duration="219000" />
+      <workItem from="1523302031174" duration="479000" />
+      <workItem from="1523357510964" duration="891000" />
+      <workItem from="1523358744483" duration="505000" />
+      <workItem from="1523379873929" duration="64000" />
+      <workItem from="1523390145757" duration="1407000" />
+      <workItem from="1523452678356" duration="1430000" />
+      <workItem from="1523456548656" duration="480000" />
+      <workItem from="1523526061807" duration="22000" />
+      <workItem from="1523529704006" duration="214000" />
+      <workItem from="1523534912920" duration="259000" />
+      <workItem from="1523539418793" duration="34000" />
+      <workItem from="1523558668920" duration="184000" />
+      <workItem from="1523559891361" duration="717000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="210333000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24181548" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18855219" sideWeight="0.5848214" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.49702382" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18855219" sideWeight="0.41517857" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="JS Applications" type="b2602c69:ProjectViewProjectNode" />
+        <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/10. Problem Handlebars-Exercises-Skeleton/cats.html" />
+    <entry file="file://$PROJECT_DIR$/Exercise04. Templating/01.ListTowns/listTowns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise04. Templating/02.HTTPStatusCats/templates/catsTemplate.hbs" />
+    <entry file="file://$PROJECT_DIR$/Exercise04. Templating/02.HTTPStatusCats/templates/detailsTemplate.html" />
+    <entry file="file://$PROJECT_DIR$/Exercise04. Templating/02.HTTPStatusCats/cats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise03. Single Page Applications/Prodavachnik/prodavachnik.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/templates/common/header.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/data.json" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/package.json" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/common/header.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/common/footer.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/forms/contacts.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/contacts.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/welcome.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/forms/registerForm.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/forms/loginForm.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/common/navigation.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/contacts/contactsList.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/contacts/contactsPage.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/contacts/contact.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/templates/contacts/contactDetails.hbs" />
+    <entry file="file://$PROJECT_DIR$/TemplatingAndJSPatterns/Patterns Contact Book/templates/contacts.hbs" />
+    <entry file="file://$PROJECT_DIR$/TemplatingAndJSPatterns/Patterns Contact Book/templates/contactList.hbs" />
+    <entry file="file://$PROJECT_DIR$/TemplatingAndJSPatterns/Patterns Contact Book/templates/details.hbs" />
+    <entry file="file://$PROJECT_DIR$/TemplatingAndJSPatterns/Patterns Contact Book/templates/welcome.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/templates/common/footer.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture04. Templating/ContactBook/templates/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture04. Templating/ContactBook/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise04. Templating/01.ListTowns/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise04. Templating/01.ListTowns/listTowns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/index.html" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/app.js" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/templates/greeting.hbs" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/scripts/handlers/homeHandler.js" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/scripts/authService.js" />
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/scripts/remote.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise04. Templating/02.HTTPStatusCats/catSeeder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise04. Templating/02.HTTPStatusCats/template.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise04. Templating/02.HTTPStatusCats/cats.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise03. Single Page Applications/Prodavachnik/scripts/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise05. JS Patterns/TeamManager/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise05. JS Patterns/TeamManager/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01. AJAX and jQuery AJAX/04.Phonebook/phonebook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="3" lean-forward="false" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise01. REST and HTTP Requests/02.BusSchedule/busSchedule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise02. Asynchronous Programming/01.Forecaster/forecaster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03. Single Page Applications/BookLibrary/scripts/crudOperations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03. Single Page Applications/BookLibrary/scripts/displayElements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03. Single Page Applications/BookLibrary/scripts/attachEvents.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="71" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture05. JS Patterns/ContactBook/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
